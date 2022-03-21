@@ -1,7 +1,6 @@
 {
     "name": "cccdz/sms",
     "description": "sms",
-    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
