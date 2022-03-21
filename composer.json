@@ -13,7 +13,7 @@
             "email": "1372468091@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
     }
