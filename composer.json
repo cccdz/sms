@@ -16,5 +16,12 @@
     "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cccdz\\Sms\\Providers\\SMSProvider"
+            ]
+        }
     }
 }
