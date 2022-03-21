@@ -1,0 +1,21 @@
+{
+    "name": "cccdz/sms",
+    "description": "sms",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cccdz\\Sms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cccdz",
+            "email": "1372468091@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
